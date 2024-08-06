@@ -13,3 +13,5 @@ s0 <- s0 ^ (so >> 30)
 S[p] <- s0 ^ s1
 r <- S[p] * 1181783497276652981
 return r 
+
+Comment: ^ is XOR operator.
