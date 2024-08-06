@@ -8,3 +8,5 @@ x <- x ^ (x << 25)
 x <- x ^ (x >> 27)
 r <- x * 2685821657736338717
 return r
+
+Comment: ^ is XOR operator.
